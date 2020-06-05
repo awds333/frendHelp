@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  lab8_task_1.4
 //
-//  Created by Pavel on 4/21/20.
-//  Copyright © 2020 pavel. All rights reserved.
+//  Created by Vlad on 5/04/20.
+//  Copyright © 2020 Vlad. All rights reserved.
 //
 
 import UIKit
