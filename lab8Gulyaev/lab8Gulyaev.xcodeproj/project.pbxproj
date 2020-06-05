@@ -40,7 +40,7 @@
 		1901D311245CAB690009378C = {
 			isa = PBXGroup;
 			children = (
-				1901D31C245CAB690009378C /* lab8PavelBandiukTask1.4 */,
+				1901D31C245CAB690009378C /* lab8Gulyaev */,
 				1901D31B245CAB690009378C /* Products */,
 			);
 			sourceTree = "<group>";
@@ -53,7 +53,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		1901D31C245CAB690009378C /* lab8PavelBandiukTask1.4 */ = {
+		1901D31C245CAB690009378C /* lab8Gulyaev */ = {
 			isa = PBXGroup;
 			children = (
 				1901D31D245CAB690009378C /* AppDelegate.swift */,
@@ -64,7 +64,7 @@
 				1901D328245CAB6A0009378C /* LaunchScreen.storyboard */,
 				1901D32B245CAB6A0009378C /* Info.plist */,
 			);
-			path = lab8PavelBandiukTask1.4;
+			path = lab8Gulyaev;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

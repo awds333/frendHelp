@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  lab8_task_1.4
+//  lab8Gulyaev
 //
 //  Created by Vlad on 5/04/20.
 //  Copyright © 2020 Vlad. All rights reserved.
