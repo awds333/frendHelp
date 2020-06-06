@@ -1,0 +1,45 @@
+
+/* Class = "UITextField"; placeholder = "Логин"; ObjectID = "0WB-7E-eNt"; */
+"0WB-7E-eNt.placeholder" = "Логин";
+
+/* Class = "UILabel"; text = "Время работы: "; ObjectID = "27q-f0-wX5"; */
+"27q-f0-wX5.text" = "Местонахождение: ";
+
+/* Class = "UITextField"; placeholder = "Пароль"; ObjectID = "DNA-Th-wGI"; */
+"DNA-Th-wGI.placeholder" = "Пароль";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "PKo-zS-FrK"; */
+"PKo-zS-FrK.text" = "Имя";
+
+/* Class = "UINavigationItem"; title = "Museums"; ObjectID = "YZr-jK-jAr"; */
+"YZr-jK-jAr.title" = "Озёра";
+
+/* Class = "UIButton"; normalTitle = "Зарегистрироваться"; ObjectID = "ZM3-8m-j0c"; */
+"ZM3-8m-j0c.normalTitle" = "Зарегистрироваться";
+
+/* Class = "UITextField"; placeholder = "Пароль"; ObjectID = "g9l-uj-Nqy"; */
+"g9l-uj-Nqy.placeholder" = "Пароль";
+
+/* Class = "UILabel"; text = "Согласен(а) с правилами "; ObjectID = "hEB-0n-HBa"; */
+"hEB-0n-HBa.text" = "Согласен(а) с правилами ";
+
+/* Class = "UISegmentedControl"; hZL-zy-wop.segmentTitles[0] = "Вход"; ObjectID = "hZL-zy-wop"; */
+"hZL-zy-wop.segmentTitles[0]" = "Вход";
+
+/* Class = "UISegmentedControl"; hZL-zy-wop.segmentTitles[1] = "Регистрация"; ObjectID = "hZL-zy-wop"; */
+"hZL-zy-wop.segmentTitles[1]" = "Регистрация";
+
+/* Class = "UILabel"; text = "Директор музея: "; ObjectID = "lPf-XC-cZy"; */
+"lPf-XC-cZy.text" = "Исторические факты: ";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "qAy-Ju-7ap"; */
+"qAy-Ju-7ap.text" = "Имя";
+
+/* Class = "UITextField"; placeholder = "Повторите пароль"; ObjectID = "vhw-eM-Y78"; */
+"vhw-eM-Y78.placeholder" = "Повторите пароль";
+
+/* Class = "UITextField"; placeholder = "Логин"; ObjectID = "w7e-TZ-CeT"; */
+"w7e-TZ-CeT.placeholder" = "Логин";
+
+/* Class = "UILabel"; text = "Контакты: "; ObjectID = "wl4-aP-OFt"; */
+"wl4-aP-OFt.text" = "";

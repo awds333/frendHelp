@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  Task2.2
+
+  Created by Egor Shilkin on 22.05.2020.
+  Copyright © 2020 Egor Shilkin. All rights reserved.
+*/
+
+"Полоцк, ул.Нижне-Покровская 11" = "Polotsk, vulica Nisze-Pokrovskaya, 11";
+"Витебск, ул.Ленина 36" = "Vitsyebsk, vulica Lenina, 36";
+"Минск" = "Minsk";
+"Минск" = "Minsk";
+"Минск" = "Minsk";
+"Полоцк" = "Polotsk";
+"Полоцк" = "Polotsk";
+"Витебск" = "Vitsyebsk";
+"Витебск" = "Vitsyebsk";
+"Минск, ул.Кирова 11" = "Minsk, vulica Kirova, 11";
+"Минск, ул.Небытко 73" = "Minsk, vulica Nebitko, 73";
+"Минск, ул.Кульмана 15" = "Minsk, vulica Kulmana, 15";
+"Музей №1" = "Museum №1";
+"Музей №2" = "Museum №2";
+"Музей №3" = "Museum №3";
