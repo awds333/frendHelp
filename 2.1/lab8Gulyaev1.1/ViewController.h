@@ -1,9 +1,9 @@
 //
 //  ViewController.h
-//  lab8_task1
+//  lab8Gulyaev1.1
 //
-//  Created by Pavel on 4/21/20.
-//  Copyright © 2020 pavel. All rights reserved.
+//  Created by Vlad on 6/05/20.
+//  Copyright © 2020 vlad. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

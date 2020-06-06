@@ -17,7 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		19471AD5245C9A05008E5370 /* 2.1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = 2.1.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		19471AD5245C9A05008E5370 /* lab8Gulyaev1.1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = lab8Gulyaev1.1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		19471AD8245C9A05008E5370 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		19471AD9245C9A05008E5370 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		19471ADB245C9A05008E5370 /* SceneDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SceneDelegate.h; sourceTree = "<group>"; };
@@ -45,7 +45,7 @@
 		19471ACC245C9A05008E5370 = {
 			isa = PBXGroup;
 			children = (
-				19471AD7245C9A05008E5370 /* 2.1 */,
+				19471AD7245C9A05008E5370 /* lab8Gulyaev1.1 */,
 				19471AD6245C9A05008E5370 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -53,12 +53,12 @@
 		19471AD6245C9A05008E5370 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				19471AD5245C9A05008E5370 /* 2.1.app */,
+				19471AD5245C9A05008E5370 /* lab8Gulyaev1.1.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		19471AD7245C9A05008E5370 /* 2.1 */ = {
+		19471AD7245C9A05008E5370 /* lab8Gulyaev1.1 */ = {
 			isa = PBXGroup;
 			children = (
 				19471AD8245C9A05008E5370 /* AppDelegate.h */,
@@ -73,15 +73,15 @@
 				19471AE9245C9A07008E5370 /* Info.plist */,
 				19471AEA245C9A07008E5370 /* main.m */,
 			);
-			path = 2.1;
+			path = lab8Gulyaev1.1;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		19471AD4245C9A05008E5370 /* 2.1 */ = {
+		19471AD4245C9A05008E5370 /* lab8Gulyaev1.1 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 19471AEE245C9A07008E5370 /* Build configuration list for PBXNativeTarget "2.1" */;
+			buildConfigurationList = 19471AEE245C9A07008E5370 /* Build configuration list for PBXNativeTarget "lab8Gulyaev1.1" */;
 			buildPhases = (
 				19471AD1245C9A05008E5370 /* Sources */,
 				19471AD2245C9A05008E5370 /* Frameworks */,
@@ -91,9 +91,9 @@
 			);
 			dependencies = (
 			);
-			name = 2.1;
+			name = lab8Gulyaev1.1;
 			productName = 2.1;
-			productReference = 19471AD5245C9A05008E5370 /* 2.1.app */;
+			productReference = 19471AD5245C9A05008E5370 /* lab8Gulyaev1.1.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -109,7 +109,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 19471AD0245C9A05008E5370 /* Build configuration list for PBXProject "2.1" */;
+			buildConfigurationList = 19471AD0245C9A05008E5370 /* Build configuration list for PBXProject "lab8Gulyaev1.1" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -122,7 +122,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				19471AD4245C9A05008E5370 /* 2.1 */,
+				19471AD4245C9A05008E5370 /* lab8Gulyaev1.1 */,
 			);
 		};
 /* End PBXProject section */
@@ -294,7 +294,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "Pavel-Bandiuk.--1";
+				PRODUCT_BUNDLE_IDENTIFIER = "Vlad-Gulyaev";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -310,7 +310,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "Pavel-Bandiuk.--1";
+				PRODUCT_BUNDLE_IDENTIFIER = "Vlad-Gulyaev";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -319,7 +319,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		19471AD0245C9A05008E5370 /* Build configuration list for PBXProject "2.1" */ = {
+		19471AD0245C9A05008E5370 /* Build configuration list for PBXProject "lab8Gulyaev1.1" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				19471AEC245C9A07008E5370 /* Debug */,
@@ -328,7 +328,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		19471AEE245C9A07008E5370 /* Build configuration list for PBXNativeTarget "2.1" */ = {
+		19471AEE245C9A07008E5370 /* Build configuration list for PBXNativeTarget "lab8Gulyaev1.1" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				19471AEF245C9A07008E5370 /* Debug */,

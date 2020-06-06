@@ -1,9 +1,9 @@
 //
-//  SceneDelegate.m
-//  lab8_task1
+//  ViewController.h
+//  lab8Gulyaev1.1
 //
-//  Created by Pavel on 4/21/20.
-//  Copyright © 2020 pavel. All rights reserved.
+//  Created by Vlad on 6/05/20.
+//  Copyright © 2020 vlad. All rights reserved.
 //
 
 #import "SceneDelegate.h"
