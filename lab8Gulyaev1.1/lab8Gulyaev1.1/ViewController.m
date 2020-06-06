@@ -1,7 +1,7 @@
 #import "ViewController.h"
 
 @interface ViewController ()
-@property (weak, nonatomic) IBOutlet UIImageView *canvas;
+@property (strong, nonatomic) IBOutlet UIImageView *canvas;
 @property CGPoint lastPoint;
 @end
 
