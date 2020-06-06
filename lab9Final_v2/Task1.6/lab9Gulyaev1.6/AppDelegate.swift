@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  Task1.6
+//  lab9Gulyaev1.6
 //
-//  Created by Pavel Bandiuk on 23.05.2020.
-//  Copyright © 2020 Pavel Bandiuk. All rights reserved.
+//  Created by Vlad Gulyaev on 5.06.2020.
+//  Copyright © 2020 Vlad Gulyaev. All rights reserved.
 //
 
 import UIKit

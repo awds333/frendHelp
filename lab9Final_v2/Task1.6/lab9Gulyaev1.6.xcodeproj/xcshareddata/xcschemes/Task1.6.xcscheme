@@ -16,8 +16,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "EDD614C6246AF4B300C7D9B8"
                BuildableName = "TaskTask1.6.app"
-               BlueprintName = "Task1.6"
-               ReferencedContainer = "container:Task1.6.xcodeproj">
+               BlueprintName = "lab9Gulyaev1.6"
+               ReferencedContainer = "container:lab9Gulyaev1.6.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -46,8 +46,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "EDD614C6246AF4B300C7D9B8"
             BuildableName = "TaskTask1.6.app"
-            BlueprintName = "Task1.6"
-            ReferencedContainer = "container:Task1.6.xcodeproj">
+            BlueprintName = "lab9Gulyaev1.6"
+            ReferencedContainer = "container:lab9Gulyaev1.6.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -63,8 +63,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "EDD614C6246AF4B300C7D9B8"
             BuildableName = "TaskTask1.6.app"
-            BlueprintName = "Task1.6"
-            ReferencedContainer = "container:Task1.6.xcodeproj">
+            BlueprintName = "lab9Gulyaev1.6"
+            ReferencedContainer = "container:lab9Gulyaev1.6.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

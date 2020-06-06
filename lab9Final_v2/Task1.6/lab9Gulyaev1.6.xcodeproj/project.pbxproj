@@ -11,13 +11,13 @@
 		EDD614CD246AF4B300C7D9B8 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDD614CC246AF4B300C7D9B8 /* SceneDelegate.swift */; };
 		EDD614CF246AF4B300C7D9B8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDD614CE246AF4B300C7D9B8 /* ViewController.swift */; };
 		EDD614D2246AF4B300C7D9B8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EDD614D0246AF4B300C7D9B8 /* Main.storyboard */; };
-		EDD614D5246AF4B300C7D9B8 /* __6.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = EDD614D3246AF4B300C7D9B8 /* __6.xcdatamodeld */; };
+		EDD614D5246AF4B300C7D9B8 /* lab9Gulyaev1.6.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = EDD614D3246AF4B300C7D9B8 /* lab9Gulyaev1.6.xcdatamodeld */; };
 		EDD614D7246AF4BC00C7D9B8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EDD614D6246AF4BC00C7D9B8 /* Assets.xcassets */; };
 		EDD614DA246AF4BC00C7D9B8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EDD614D8246AF4BC00C7D9B8 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		EDD614C7246AF4B300C7D9B8 /* TaskTask1.6.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TaskTask1.6.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		EDD614C7246AF4B300C7D9B8 /* lab9Gulyaev1.6.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = lab9Gulyaev1.6.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EDD614CA246AF4B300C7D9B8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EDD614CC246AF4B300C7D9B8 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		EDD614CE246AF4B300C7D9B8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -42,7 +42,7 @@
 		EDD614BE246AF4B300C7D9B8 = {
 			isa = PBXGroup;
 			children = (
-				EDD614C9246AF4B300C7D9B8 /* Task1.6 */,
+				EDD614C9246AF4B300C7D9B8 /* lab9Gulyaev1.6 */,
 				EDD614C8246AF4B300C7D9B8 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -50,12 +50,12 @@
 		EDD614C8246AF4B300C7D9B8 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				EDD614C7246AF4B300C7D9B8 /* TaskTask1.6.app */,
+				EDD614C7246AF4B300C7D9B8 /* lab9Gulyaev1.6.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		EDD614C9246AF4B300C7D9B8 /* Task1.6 */ = {
+		EDD614C9246AF4B300C7D9B8 /* lab9Gulyaev1.6 */ = {
 			isa = PBXGroup;
 			children = (
 				EDD614CA246AF4B300C7D9B8 /* AppDelegate.swift */,
@@ -65,17 +65,17 @@
 				EDD614D6246AF4BC00C7D9B8 /* Assets.xcassets */,
 				EDD614D8246AF4BC00C7D9B8 /* LaunchScreen.storyboard */,
 				EDD614DB246AF4BC00C7D9B8 /* Info.plist */,
-				EDD614D3246AF4B300C7D9B8 /* __6.xcdatamodeld */,
+				EDD614D3246AF4B300C7D9B8 /* lab9Gulyaev1.6.xcdatamodeld */,
 			);
-			path = Task1.6;
+			path = lab9Gulyaev1.6;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		EDD614C6246AF4B300C7D9B8 /* Task1.6 */ = {
+		EDD614C6246AF4B300C7D9B8 /* lab9Gulyaev1.6 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = EDD614DE246AF4BC00C7D9B8 /* Build configuration list for PBXNativeTarget "Task1.6" */;
+			buildConfigurationList = EDD614DE246AF4BC00C7D9B8 /* Build configuration list for PBXNativeTarget "lab9Gulyaev1.6" */;
 			buildPhases = (
 				EDD614C3246AF4B300C7D9B8 /* Sources */,
 				EDD614C4246AF4B300C7D9B8 /* Frameworks */,
@@ -85,9 +85,9 @@
 			);
 			dependencies = (
 			);
-			name = Task1.6;
+			name = lab9Gulyaev1.6;
 			productName = 1.6;
-			productReference = EDD614C7246AF4B300C7D9B8 /* TaskTask1.6.app */;
+			productReference = EDD614C7246AF4B300C7D9B8 /* lab9Gulyaev1.6.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -105,7 +105,7 @@
 					};
 				};
 			};
-			buildConfigurationList = EDD614C2246AF4B300C7D9B8 /* Build configuration list for PBXProject "Task1.6" */;
+			buildConfigurationList = EDD614C2246AF4B300C7D9B8 /* Build configuration list for PBXProject "lab9Gulyaev1.6" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -118,7 +118,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				EDD614C6246AF4B300C7D9B8 /* Task1.6 */,
+				EDD614C6246AF4B300C7D9B8 /* lab9Gulyaev1.6 */,
 			);
 		};
 /* End PBXProject section */
@@ -141,7 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EDD614D5246AF4B300C7D9B8 /* __6.xcdatamodeld in Sources */,
+				EDD614D5246AF4B300C7D9B8 /* lab9Gulyaev1.6.xcdatamodeld in Sources */,
 				EDD614CF246AF4B300C7D9B8 /* ViewController.swift in Sources */,
 				EDD614CB246AF4B300C7D9B8 /* AppDelegate.swift in Sources */,
 				EDD614CD246AF4B300C7D9B8 /* SceneDelegate.swift in Sources */,
@@ -295,8 +295,8 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "SHILKIN.Task1-6";
-				PRODUCT_NAME = TaskTask1.6;
+				PRODUCT_BUNDLE_IDENTIFIER = "Vlad-Gulyaev";
+				PRODUCT_NAME = lab9Gulyaev1.6;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -313,8 +313,8 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "SHILKIN.Task1-6";
-				PRODUCT_NAME = TaskTask1.6;
+				PRODUCT_BUNDLE_IDENTIFIER = "Vlad-Gulyaev";
+				PRODUCT_NAME = lab9Gulyaev1.6;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -323,7 +323,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		EDD614C2246AF4B300C7D9B8 /* Build configuration list for PBXProject "Task1.6" */ = {
+		EDD614C2246AF4B300C7D9B8 /* Build configuration list for PBXProject "lab9Gulyaev1.6" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				EDD614DC246AF4BC00C7D9B8 /* Debug */,
@@ -332,7 +332,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		EDD614DE246AF4BC00C7D9B8 /* Build configuration list for PBXNativeTarget "Task1.6" */ = {
+		EDD614DE246AF4BC00C7D9B8 /* Build configuration list for PBXNativeTarget "lab9Gulyaev1.6" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				EDD614DF246AF4BC00C7D9B8 /* Debug */,
@@ -344,13 +344,13 @@
 /* End XCConfigurationList section */
 
 /* Begin XCVersionGroup section */
-		EDD614D3246AF4B300C7D9B8 /* __6.xcdatamodeld */ = {
+		EDD614D3246AF4B300C7D9B8 /* lab9Gulyaev1.6.xcdatamodeld */ = {
 			isa = XCVersionGroup;
 			children = (
 				EDD614D4246AF4B300C7D9B8 /* __6.xcdatamodel */,
 			);
 			currentVersion = EDD614D4246AF4B300C7D9B8 /* __6.xcdatamodel */;
-			path = __6.xcdatamodeld;
+			path = lab9Gulyaev1.6.xcdatamodeld;
 			sourceTree = "<group>";
 			versionGroupType = wrapper.xcdatamodel;
 		};
